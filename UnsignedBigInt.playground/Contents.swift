@@ -75,6 +75,3 @@ numbers.forEach { index in
 }
 
 
-
-
-
